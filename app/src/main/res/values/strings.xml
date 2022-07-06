@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MogaweSubmission</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="email">Masukkan Email</string>
+    <string name="type_password">Masukkan Pasword</string>
+    <string name="mogawecp">Mau Tambahan Uang?</string>
+    <string name="ayoGabung">Ayo Gabung!</string>
+</resources>
