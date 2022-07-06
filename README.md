@@ -1,7 +1,7 @@
 # LoginBaseMVVM
 
 - Kotlin Flow
-- Local Chacing
+- Local DB Chacing
 - Shared Preference
 - Paging 3 and Chacing
 - MVVM Architecture
